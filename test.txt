@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 deneme2
 =======
 deneme
@@ -6,3 +7,4 @@ deneme
 
 
 local project
+
