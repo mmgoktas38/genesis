@@ -3,3 +3,6 @@ deneme2
 =======
 deneme
 >>>>>>> refs/remotes/origin/main
+
+
+local project
