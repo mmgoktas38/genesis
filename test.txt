@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 deneme2
+=======
+deneme
+>>>>>>> refs/remotes/origin/main
